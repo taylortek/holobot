@@ -1,2 +1,2 @@
-git rm --cached /Holobot/.env
-/Holobot/.env
+git rm --cached ./Holobot/.env
+./Holobot/.env
