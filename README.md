@@ -27,3 +27,4 @@ The only command right now is "r/" followed by the desired subreddit name.
 
 * Removed the .env file due to users not being able to see it
 * Changed the instructions to require users to make their own .env file
+* Fixed some grammer
