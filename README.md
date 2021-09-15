@@ -18,7 +18,7 @@ A simple discord bot that sends a random post from a subreddit.
 ## License
 You can see my license [here](https://github.com/taylortek/holobot/blob/main/LICENSE)
 
-but the gist is you have pretty much have free rein as long as you
+but the gist is you have pretty much free rein as long as you
 
 * Include this license
 * Make it open source
