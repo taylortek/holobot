@@ -29,3 +29,14 @@ The only command right now is "r/" followed by the desired subreddit name.
 * Changed the instructions to require users to make their own .env file
 * Fixed some grammer
 * General polish
+* Added a License
+
+### License
+You can see my license [here](https://github.com/taylortek/holobot/blob/main/LICENSE)
+
+but the gist is you have pretty much have free rein as long as you
+
+1. Include this license
+2. Make it open source
+3. Link to this page and disclose that I am the original coder
+4. You must inclue documentation of the changes you make
