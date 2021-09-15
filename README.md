@@ -20,10 +20,10 @@ You can see my license [here](https://github.com/taylortek/holobot/blob/main/LIC
 
 but the gist is you have pretty much have free rein as long as you
 
-1. Include this license
-2. Make it open source
-3. Link to this page and disclose that I am the original coder
-4. You must inclue documentation of the changes you make
+* Include this license
+* Make it open source
+* Link to this page and disclose that I am the original coder
+* You must inclue documentation of the changes you make
 
 # Updates
 > 9/14/21
