@@ -6,7 +6,7 @@ A simple discord bot that sends a random post from a subreddit.
 1. You're going to need to make a discord bot with the discord application page.
 1. Copy the bot token (dont share this with anybody).
 1. make a ".env" file in the "holobot" folder and type 
-"HOLO_BOT_TOKEN=your token" with your token (Remember to save).
+`HOLO_BOT_TOKEN=your token` with your token (Remember to save).
 1. boot it up with node (node ./src/bot.js/)
 1. Now just invite your bot to your server and you're done!
 
@@ -28,3 +28,4 @@ The only command right now is "r/" followed by the desired subreddit name.
 * Removed the .env file due to users not being able to see it
 * Changed the instructions to require users to make their own .env file
 * Fixed some grammer
+* General polish
