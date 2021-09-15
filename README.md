@@ -17,5 +17,11 @@ The only command right now is "r/" followed by the desired subreddit name.
 > 9/14/21
 
 * Made a readme
+* Made a .env template
 * General improvements
 * Switched from using the reddit api to the "bee-api" https://www.npmjs.com/package/bee-api/v/1.0.9
+
+> 9/15/21
+
+* Removed the .env file due to users not being able to see it
+* Changed the instructions to require users to make their own .env file
