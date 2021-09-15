@@ -15,7 +15,7 @@ The only command right now is "r/" followed by the desired subreddit name.
 
 > if you have any command requests feel free to tell me.
 
-### License
+## License
 You can see my license [here](https://github.com/taylortek/holobot/blob/main/LICENSE)
 
 but the gist is you have pretty much have free rein as long as you
