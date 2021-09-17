@@ -11,7 +11,7 @@ A simple discord bot that sends a random post from a subreddit.
 1. Now just invite your bot to your server and you're done!
 
 # Commands
-  The only command right now is "r/" followed by the desired subreddit name.
+  The only command right now is `r/` followed by the desired subreddit name.
 
 > if you have any command requests feel free to tell me.
 
