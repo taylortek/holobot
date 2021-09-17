@@ -40,3 +40,8 @@ but the gist is you have pretty much free rein as long as you
 * Fixed some grammer
 * General polish
 * Added a License
+
+> 9/16/21
+* General polish 
+* Fixed spelling errors
+* Nothin else
