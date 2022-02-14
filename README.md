@@ -1,3 +1,5 @@
+# THIS HAS BEEN DEPRECIATED 
+FOR BEING BAD lol
 # Holobot
 A simple discord bot that sends a random post from a subreddit.
 
